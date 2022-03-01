@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subbarao515
 - 👀 I’m interested in Cloud
-- 🌱 I’m currently learning programming
+- 🌱 I’m  programmer
 - 💞️ I’m looking to collaborate on ...
 
 
