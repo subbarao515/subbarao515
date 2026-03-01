@@ -18,5 +18,4 @@ subbarao515/subbarao515 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-![alt](https://github-readme-stats.vercel.app/api?username=subbarao515&theme=vue-dark&show_icons=true&hide_border=true&count_private=true).
-
+![Subbarao's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=subbarao515&show_icons=true&theme=radical)
