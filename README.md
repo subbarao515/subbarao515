@@ -1,16 +1,14 @@
-👋 Hi, I’m @subbarao515
+👋 Hi, I’m @subbarao Anaparthi
 
-👀 I’m interested in Cloud Architecture, Azure-native solutions, and Scalable Systems.
-
-🌱 I’m a programmer with 17+ years of experience specializing in .NET and C#.
+👀 I’m interested in Cloud Architecture and Site Reliability Engineering (SRE)
 
 💞️ I’m looking to collaborate on Open Source cloud-native projects or Enterprise Architecture patterns.
 
-🛠️ Tech Stack: I work with Terraform, Azure DevOps, Microservices, and Event-Driven Design.
+🛠️ Tech Stack: I work with Terraform, DevOps, Microservices, and Event-Driven Design.
 
 📫 How to reach me: Connect with me on LinkedIn.
 
-⚡ Fun fact:Focus on high-performance healthcare and energy solutions.
+
 
 GitHub Stats:
 <!---
